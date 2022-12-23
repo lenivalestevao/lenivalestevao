@@ -1,10 +1,9 @@
 # Leni Junior
 
 ## Hey fellas, what's up 👋 :octocat:
+### ⚡ Full Stack Developer :computer:
 <br/>
 I love new challenges to develop web sites and software.
-<br/>
-I'm FullStack Developer :computer:
 <br/>
 <br/>
 I'm working on <a href="https://accuratesafetyco.com"><img src='https://img.shields.io/badge/Accurate_Safety_Compliance-blue'></a>
