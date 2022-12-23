@@ -15,7 +15,7 @@ I'm FullStack Developer :computer:
  <br/> :desktop_computer: &nbsp; Stacks: ReactJS, Node.js, Vanilla, Jquery, livewire
  <br/> :floppy_disk: &nbsp; Databases: Firebird, MySQL, SQLServer, PostgreSQL, SQLite
  <br/> 💬  &nbsp; About me: I like technologies, games and science, I'm :brazil: living in the :us_outlying_islands:
- <br/> 
+ 
  [![Linkedin Badge](https://img.shields.io/badge/-LeniJunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenivalestevao/)](https://www.linkedin.com/in/lenivalestevao/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lenivalestevaojr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenivalestevaojr@gmail.com)](mailto:lenivalestevaojr@gmail.com)
