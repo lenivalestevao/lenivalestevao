@@ -17,4 +17,4 @@ I'm FullStack Developer :computer:
  <br/> 💬  &nbsp; About me: I like technologies, games and science, I'm :brazil: living in the :us_outlying_islands:
  <br/> :mailbox: &nbsp; Contact me: 
 
- [![General badge]([https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/lenivalestevao/)
+ [![General badge]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/lenivalestevao/)
