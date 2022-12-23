@@ -9,7 +9,8 @@ I'm FullStack Developer :computer:
  <br/>Seeking to elaborate and implement new project concepts in Front-end and Back-end using Larave & Livewire
  <br/>
  <br/> :green_heart: &nbsp; My OS Favorite is Xubuntu
- [![OS - Debian Distribution](https://img.shields.io/static/v1?label=OS&message=Debian+Distribution&color=f&logo=linux&logoColor=white)]
+
+<img src="https://img.shields.io/static/v1?label=OS&message=Debian+Distribution&color=f&logo=linux&logoColor=white" alt="OS - Debian Distribution">
       
  <br/> :blush: &nbsp; I can work with the following language
  <br/> :desktop_computer: &nbsp; My Skills: PHP, c# .NET , c++, JavaEE, JavaSE, Android, Flutter/ Dart, htm5/css3, Python
