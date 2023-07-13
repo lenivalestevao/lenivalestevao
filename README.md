@@ -6,10 +6,7 @@
 I love new challenges to develop web sites and software.
 <br/>
 <br/>
-I'm working on <a href="https://accuratesafetyco.com"><img src='https://img.shields.io/badge/Accurate_Safety_Compliance-blue'></a>
-<br/>Seeking to elaborate and implement new project concepts in Front-end and Back-end using Larave & Livewire
-<br/>
-<br/>
+
 Production Server:
 <br/>
 <img src="https://img.shields.io/static/v1?label=OS&message=Debian+Distribution&color=f&logo=linux&logoColor=white" alt="OS - Debian Distribution">
