@@ -48,6 +48,7 @@ Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licens
 | 🏠 Real Estate Landing | [Preview](https://lenivalestevao.github.io/real-estate-landing-page/) | [Repo](https://github.com/lenivalestevao/real-estate-landing-page) |
 | 🛒 E-commerce Storefront | [Preview](https://lenivalestevao.github.io/ecommerce-storefront-landing/) | [Repo](https://github.com/lenivalestevao/ecommerce-storefront-landing) |
 | 📊 Admin Dashboard | [Preview](https://lenivalestevao.github.io/responsive-dashboard-template/) | [Repo](https://github.com/lenivalestevao/responsive-dashboard-template) |
+| 📱 Flutter Login UI Kit (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-login-ui-kit) |
 
 **More free dev tools:** [dotnet-clean-api-starter](https://github.com/lenivalestevao/dotnet-clean-api-starter) · [split-the-bill-cli](https://github.com/lenivalestevao/split-the-bill-cli) · [folder-organizer-cli](https://github.com/lenivalestevao/folder-organizer-cli)
 
