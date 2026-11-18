@@ -36,6 +36,26 @@ I build and integrate web systems end-to-end — from relational data models and
 
 <br/>
 
+## 🎁 Free Templates (download & use)
+
+Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licensed. Open the live demo, then download the repo and make it yours.
+
+| Template | Live demo | Code |
+|---|---|---|
+| 👨‍💻 Developer Portfolio | [Preview](https://lenivalestevao.github.io/developer-portfolio-landing-page/) | [Repo](https://github.com/lenivalestevao/developer-portfolio-landing-page) |
+| 🔗 Link-in-Bio Page | [Preview](https://lenivalestevao.github.io/link-in-bio-page/) | [Repo](https://github.com/lenivalestevao/link-in-bio-page) |
+| 🚀 SaaS Startup Landing | [Preview](https://lenivalestevao.github.io/saas-startup-landing-page/) | [Repo](https://github.com/lenivalestevao/saas-startup-landing-page) |
+| 🏠 Real Estate Landing | [Preview](https://lenivalestevao.github.io/real-estate-landing-page/) | [Repo](https://github.com/lenivalestevao/real-estate-landing-page) |
+| 🛒 E-commerce Storefront | [Preview](https://lenivalestevao.github.io/ecommerce-storefront-landing/) | [Repo](https://github.com/lenivalestevao/ecommerce-storefront-landing) |
+| 📊 Admin Dashboard | [Preview](https://lenivalestevao.github.io/responsive-dashboard-template/) | [Repo](https://github.com/lenivalestevao/responsive-dashboard-template) |
+| 🧰 Mini Tools Hub | [Preview](https://lenivalestevao.github.io/mini-tools-hub/) | [Repo](https://github.com/lenivalestevao/mini-tools-hub) |
+
+**More free dev tools:** [dotnet-clean-api-starter](https://github.com/lenivalestevao/dotnet-clean-api-starter) · [split-the-bill-cli](https://github.com/lenivalestevao/split-the-bill-cli) · [folder-organizer-cli](https://github.com/lenivalestevao/folder-organizer-cli)
+
+If a template saves you time, a ⭐ on the repo helps a lot!
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=lenivalestevao&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenivalestevao&layout=compact&hide_border=true" />
