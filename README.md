@@ -1,21 +1,55 @@
-# Leni Junior
+# Hi, I'm Leni Junior 👋
 
-## Hey fellas, what's up 👋 :octocat:
-### ⚡ Full Stack Developer :computer:
+### Senior Full Stack Developer | .NET/C# · PHP · Python · JavaScript
+
+I build and integrate web systems end-to-end — from relational data models and REST APIs to the front-end that consumes them. Comfortable owning a feature from spec to production, and quick to adapt across stacks when a project calls for it.
+
 <br/>
-I love new challenges to develop web sites and software.
+
+## 🚀 What I do
+
+<ul>
+ <li>🔧 <b>Backend:</b>b> C#/.NET, PHP (Laravel, CodeIgniter), Python (Django), Java</li>li>
+<li>🌐 <b>Frontend:</b>b> ReactJS, Node.js, HTML5/CSS3, jQuery, Livewire</li>li>
+<li>🗄️ <b>Databases:</b>b> SQL Server, PostgreSQL, MySQL, Oracle, Firebird, SQLite</li>li>
+<li>📱 <b>Mobile:</b>b> Android, Flutter/Dart</li>li>
+<li>🔌 <b>Integration:</b>b> REST APIs, third-party service integration, system automation</li>li>
+<li>🌎 Based in the US (Oklahoma City) · open to remote roles</li>li>
+</ul>ul>
+
 <br/>
+
+## 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 <br/>
 
+## 📊 GitHub Stats
 
+<p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lenivalestevao&show_icons=true&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenivalestevao&layout=compact&hide_border=true" />
+</p>p>
 
-<br/> :blush: &nbsp; I can work with the following language
-<br/> :desktop_computer: &nbsp; My Skills: PHP, c# .NET , c++, JavaEE, JavaSE, Android, Flutter/ Dart, htm5/css3, Python, Delphi, Visual Basic
-<br/> :desktop_computer: &nbsp; Frameworks: PHP(codeigniter & laravel), c#(.NET & DevExpress ), Java(Hibernate), Django(Python), Yolo(Python)
-<br/> :desktop_computer: &nbsp; Stacks: ReactJS, Node.js, Vanilla, Jquery, livewire
-<br/> :floppy_disk: &nbsp; Databases: Firebird, MySQL, SQLServer, PostgreSQL, Oracle, SQLite
-<br/> 💬  &nbsp; About me: I like technologies, games and science
- 
- [![Linkedin Badge](https://img.shields.io/badge/-LeniJunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenivalestevao/)](https://www.linkedin.com/in/lenivalestevao/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-lenivalestevaojr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenivalestevaojr@gmail.com)](mailto:lenivalestevaojr@gmail.com)
+<br/>
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lenivalestevao/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lenivalestevaojr@gmail.com)
+</li></li>
+</ul>
