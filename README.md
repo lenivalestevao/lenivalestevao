@@ -8,14 +8,12 @@ I build and integrate web systems end-to-end — from relational data models and
 
 ## 🚀 What I do
 
-<ul>
- <li>🔧 <b>Backend:</b>b> C#/.NET, PHP (Laravel, CodeIgniter), Python (Django), Java</li>li>
-<li>🌐 <b>Frontend:</b>b> ReactJS, Node.js, HTML5/CSS3, jQuery, Livewire</li>li>
-<li>🗄️ <b>Databases:</b>b> SQL Server, PostgreSQL, MySQL, Oracle, Firebird, SQLite</li>li>
-<li>📱 <b>Mobile:</b>b> Android, Flutter/Dart</li>li>
-<li>🔌 <b>Integration:</b>b> REST APIs, third-party service integration, system automation</li>li>
-<li>🌎 Based in the US (Oklahoma City) · open to remote roles</li>li>
-</ul>ul>
+🔧 **Backend:** C#/.NET, PHP (Laravel, CodeIgniter), Python (Django), Java<br/>
+🌐 **Frontend:** ReactJS, Node.js, HTML5/CSS3, jQuery, Livewire<br/>
+🗄️ **Databases:** SQL Server, PostgreSQL, MySQL, Oracle, Firebird, SQLite<br/>
+📱 **Mobile:** Android, Flutter/Dart<br/>
+🔌 **Integration:** REST APIs, third-party service integration, system automation<br/>
+🌎 Based in the US (Oklahoma City) · open to remote roles
 
 <br/>
 
@@ -40,10 +38,7 @@ I build and integrate web systems end-to-end — from relational data models and
 
 ## 📊 GitHub Stats
 
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lenivalestevao&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenivalestevao&layout=compact&hide_border=true" />
-</p>p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lenivalestevao&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenivalestevao&layout=compact&hide_border=true" />
 
 <br/>
 
@@ -51,5 +46,3 @@ I build and integrate web systems end-to-end — from relational data models and
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lenivalestevao/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lenivalestevaojr@gmail.com)
-</li></li>
-</ul>
