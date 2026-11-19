@@ -13,7 +13,8 @@ I build and integrate web systems end-to-end — from relational data models and
 🗄️ **Databases:** SQL Server, PostgreSQL, MySQL, Oracle, Firebird, SQLite<br/>
 📱 **Mobile:** Android, Flutter/Dart<br/>
 🔌 **Integration:** REST APIs, third-party service integration, system automation<br/>
-🌎 Based in Jaboatão dos Guararapes, Pernambuco, Brazil · open to remote roles
+🌎 Based in Jaboatão dos Guararapes, Pernambuco, Brazil · previously based in the US (Oklahoma City) · open to remote roles<br/>
+🗣️ **Languages:** English, Portuguese and Spanish (fluent)
 
 <br/>
 
