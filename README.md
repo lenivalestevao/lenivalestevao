@@ -41,6 +41,10 @@ I build and integrate web systems end-to-end — from relational data models and
 
 <br/>
 
+## 🌱 Active Project
+
+**[English Mindsets](https://englishmindsets.com.br/)** is an English learning platform I am building in partnership with Rafa. It combines short daily practice between classes with live video classes taught by teachers, for kids, teens and adults.
+
 ## 🎁 Free Templates (download & use)
 
 Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licensed. Open the live demo, then download the repo and make it yours.
