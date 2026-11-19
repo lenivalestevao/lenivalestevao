@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Software%20Developer%20Workspace%20Banner.png" alt="Leni Junior - Software Developer" width="100%"/>
+</p>
+
 # Hi, I'm Leni Junior 👋
 
 ### Senior Full Stack Developer | .NET/C# · PHP · Python · JavaScript
