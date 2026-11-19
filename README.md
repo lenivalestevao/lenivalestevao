@@ -56,6 +56,7 @@ Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licens
 | 📊 Admin Dashboard | [Preview](https://lenivalestevao.github.io/responsive-dashboard-template/) | [Repo](https://github.com/lenivalestevao/responsive-dashboard-template) |
 | 📱 Flutter Login UI Kit (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-login-ui-kit) |
 | 📱 Flutter UI Kits: Onboarding, Shop, Chat, Profile (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-ui-kits) |
+| 🍽️ Flutter Restaurant App: Menu, Cart, Order Tracking, Reservations (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-restaurant-app) |
 
 If a template saves you time, a ⭐ on the repo helps a lot!
 
