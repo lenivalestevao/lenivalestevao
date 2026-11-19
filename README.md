@@ -54,6 +54,7 @@ Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licens
 | 🛒 E-commerce Storefront | [Preview](https://lenivalestevao.github.io/ecommerce-storefront-landing/) | [Repo](https://github.com/lenivalestevao/ecommerce-storefront-landing) |
 | 📊 Admin Dashboard | [Preview](https://lenivalestevao.github.io/responsive-dashboard-template/) | [Repo](https://github.com/lenivalestevao/responsive-dashboard-template) |
 | 📱 Flutter Login UI Kit (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-login-ui-kit) |
+| 📱 Flutter UI Kits: Onboarding, Shop, Chat, Profile (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-ui-kits) |
 
 If a template saves you time, a ⭐ on the repo helps a lot!
 
