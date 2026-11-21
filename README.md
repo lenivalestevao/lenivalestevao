@@ -68,7 +68,7 @@ If a template saves you time, a ⭐ on the repo helps a lot!
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lenivalestevao&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenivalestevao&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lenivalestevao&show_icons=true&theme=default&include_all_commits=true&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenivalestevao&layout=compact&hide_border=true" />
 
 <br/>
 
