@@ -64,6 +64,7 @@ Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licens
 | 💳 Flutter Fintech Wallet: Balance, Cards, Insights, Send Money (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-fintech-app) |
 | 🏋️ Flutter Fitness App: Activity Rings, Workouts, Guided Session, Progress (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-fitness-app) |
 | ✈️ Flutter Travel App: Explore, Booking, Saved Places, Trips (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-travel-app) |
+| 🔥 Flutter Habit Tracker: Daily Check-ins, Streaks, Heatmap, Stats (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-habit-tracker) |
 
 If a template saves you time, a ⭐ on the repo helps a lot!
 
