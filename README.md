@@ -61,6 +61,9 @@ Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licens
 | 📱 Flutter Login UI Kit (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-login-ui-kit) |
 | 📱 Flutter UI Kits: Onboarding, Shop, Chat, Profile (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-ui-kits) |
 | 🍽️ Flutter Restaurant App: Menu, Cart, Order Tracking, Reservations (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-restaurant-app) |
+| 💳 Flutter Fintech Wallet: Balance, Cards, Insights, Send Money (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-fintech-app) |
+| 🏋️ Flutter Fitness App: Activity Rings, Workouts, Guided Session, Progress (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-fitness-app) |
+| ✈️ Flutter Travel App: Explore, Booking, Saved Places, Trips (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-travel-app) |
 
 If a template saves you time, a ⭐ on the repo helps a lot!
 
