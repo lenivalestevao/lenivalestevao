@@ -66,6 +66,7 @@ Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licens
 | ✈️ Flutter Travel App: Explore, Booking, Saved Places, Trips (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-travel-app) |
 | 🔥 Flutter Habit Tracker: Daily Check-ins, Streaks, Heatmap, Stats (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-habit-tracker) |
 | ⚛️ React SaaS Dashboard: KPIs, Charts, Customers Table, Dark Mode (React + TypeScript) | Source only | [Repo](https://github.com/lenivalestevao/react-saas-dashboard) |
+| 🗂️ React Kanban Board: Drag & Drop, Cards, Filters, Dark Mode (React + TypeScript) | Source only | [Repo](https://github.com/lenivalestevao/react-kanban-board) |
 
 If a template saves you time, a ⭐ on the repo helps a lot!
 
