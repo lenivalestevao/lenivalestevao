@@ -66,6 +66,21 @@ If a template saves you time, a ⭐ on the repo helps a lot!
 
 <br/>
 
+## 🌱 Open source: Dia Zero
+
+**[diazero](https://github.com/lenivalestevao/diazero)** is a free, MIT-licensed plugin for Claude Code that I built to help the community plan projects before building them.
+
+You describe an idea, answer a short interview, and get four ready-to-use files: `PROJECT.md`, `ARCHITECTURE.md`, `TASKS.md` and `CLAUDE.md`. Then it helps you build task by task, track progress and audit the result. Available in Portuguese and English.
+
+```bash
+claude plugin marketplace add lenivalestevao/diazero
+claude plugin install diazero@diazero
+```
+
+Feedback, ideas and pull requests are welcome, and a ⭐ on the repo helps others find it.
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=lenivalestevao&show_icons=true&theme=default&include_all_commits=true&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenivalestevao&layout=compact&hide_border=true" />
