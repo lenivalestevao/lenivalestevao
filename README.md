@@ -68,6 +68,7 @@ Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licens
 | ⚛️ React SaaS Dashboard: KPIs, Charts, Customers Table, Dark Mode (React + TypeScript) | Source only | [Repo](https://github.com/lenivalestevao/react-saas-dashboard) |
 | 🗂️ React Kanban Board: Drag & Drop, Cards, Filters, Dark Mode (React + TypeScript) | Source only | [Repo](https://github.com/lenivalestevao/react-kanban-board) |
 | 💰 React Expense Tracker: Charts, Categories, Filters, CSV Export, Dark Mode (React + TypeScript) | Source only | [Repo](https://github.com/lenivalestevao/react-expense-tracker) |
+| 🚀 React Landing Page: Hero, Features, Pricing Toggle, FAQ, Dark Mode (React + TypeScript) | Source only | [Repo](https://github.com/lenivalestevao/react-landing-page) |
 
 If a template saves you time, a ⭐ on the repo helps a lot!
 
