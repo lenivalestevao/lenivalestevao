@@ -66,6 +66,7 @@ Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licens
 | ✈️ Flutter Travel App: Explore, Booking, Saved Places, Trips (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-travel-app) |
 | 🔥 Flutter Habit Tracker: Daily Check-ins, Streaks, Heatmap, Stats (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-habit-tracker) |
 | 💬 Flutter Chat UI (WhatsApp style): Voice & Video Calls, Photos, Voice Messages, Location (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-chat-ui) |
+| 🎵 Flutter Music Player UI: Mini Player, Full-Screen Player, Queue, Search, Library (Dart) | Source only | [Repo](https://github.com/lenivalestevao/flutter-music-player-ui) |
 | ⚛️ React SaaS Dashboard: KPIs, Charts, Customers Table, Dark Mode (React + TypeScript) | Source only | [Repo](https://github.com/lenivalestevao/react-saas-dashboard) |
 | 🗂️ React Kanban Board: Drag & Drop, Cards, Filters, Dark Mode (React + TypeScript) | Source only | [Repo](https://github.com/lenivalestevao/react-kanban-board) |
 | 💰 React Expense Tracker: Charts, Categories, Filters, CSV Export, Dark Mode (React + TypeScript) | Source only | [Repo](https://github.com/lenivalestevao/react-expense-tracker) |
