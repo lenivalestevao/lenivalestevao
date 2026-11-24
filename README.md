@@ -74,6 +74,7 @@ Free, responsive, no-framework templates (HTML5 + CSS3 + JavaScript), MIT licens
 | 💬 React Chat UI: Conversations, Search, Typing Indicator, Dark Mode (React + TypeScript) | Source only | [Repo](https://github.com/lenivalestevao/react-chat-ui) |
 | 🚀 Laravel API Starter: Sanctum Auth, Projects & Tasks CRUD, Form Requests, Policies, Tests (PHP) | Source only | [Repo](https://github.com/lenivalestevao/laravel-api-starter) |
 | 🌐 Laravel Business Website: Home, About, Services, Pricing, Blog, Contact Form (Laravel 13 + Blade) | Source only | [Repo](https://github.com/lenivalestevao/laravel-business-website) |
+| 🛒 Laravel E-commerce (OpenCart style): catalog, cart, checkout, admin, Stripe/PayPal/Mercado Pago (Laravel 13) | Source only | [Repo](https://github.com/lenivalestevao/laravel-ecommerce) |
 
 If a template saves you time, a ⭐ on the repo helps a lot!
 
