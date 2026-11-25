@@ -10,6 +10,16 @@ I build and integrate web systems end-to-end — from relational data models and
 
 <br/>
 
+## ⭐ Active Project
+
+### 🧾 [Resume Generator](https://lenivalestevao.github.io/gerador-de-curriculo/)
+
+Free resume builder in **Portuguese, English and Spanish**: 6 templates, ATS-friendly PDF with real text, LinkedIn data import and JSON export/import. Plain JavaScript, no dependencies, and everything runs in the browser, so your data never leaves your computer.
+
+👉 **[Try it live](https://lenivalestevao.github.io/gerador-de-curriculo/)** · [Source code](https://github.com/lenivalestevao/gerador-de-curriculo)
+
+<br/>
+
 ## 🚀 What I do
 
 🔧 **Backend:** C#/.NET, PHP (Laravel, CodeIgniter), Python (Django), Java<br/>
